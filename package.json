@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite  --port 5000",
+    "dev:production": "vite  --port 5000 --mode production",
     "build": "vite build",
     "preview": "vite preview"
   },
